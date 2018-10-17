@@ -1,0 +1,15 @@
+.body{
+    display: block;
+    position: relative;
+    box-shadow: 2px;
+    box-sizing: border-box;
+    left: 25%;
+    margin-top: 10%;
+}
+.sign{
+    /* border: 1px solid blueviolet; */
+    position: absolute;
+    /* background-color: black; */
+    /* color:white; */
+    text-align: left;
+}

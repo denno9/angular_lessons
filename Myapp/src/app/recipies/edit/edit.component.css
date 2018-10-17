@@ -1,0 +1,11 @@
+.body{
+    /* background-color: black; */
+    box-sizing: border-box;
+    height: 100%;
+    color: red;
+}
+
+input.ng-invalid.ng-touched, textarea.ng-invalid.ng-touched{
+    border: 1px solid red;
+}
+
